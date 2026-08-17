@@ -1,5 +1,10 @@
 # DevOps & Automation Lab: Git & GitHub Practice (Task 4)
 
+**Student Details:**
+- **Name:** Vikrant Singh
+- **Roll No:** 2301010028
+- **Course:** B.Tech CSE (Semester 7)
+
 Welcome to the repository for **Task 4** of the DevOps & Automation Lab (ENSP461).
 
 This repository was created specifically to practice and demonstrate core Git and GitHub workflows, including branching, merging, and collaborative development.
