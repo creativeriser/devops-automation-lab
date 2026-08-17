@@ -1,43 +1,20 @@
-# 🚀 DevOps & Automation Lab (ENSP561)
+# DevOps & Automation Lab: Git & GitHub Practice (Task 4)
 
-Welcome to the **DevOps & Automation Lab** repository! This repository is dedicated to practical exercises, hands-on labs, and projects demonstrating core DevOps practices, version control, and automation.
+Welcome to the repository for **Task 4** of the DevOps & Automation Lab (ENSP461).
 
----
+This repository was created specifically to practice and demonstrate core Git and GitHub workflows, including branching, merging, and collaborative development.
 
-## 👨‍🎓 Student Details
-- **Name:** Vikrant Singh
-- **Roll Number:** 2301010028
-- **Course:** B.Tech CSE (Semester 7)
-- **University:** K.R. Mangalam University
+## 📂 Repository Contents
+- `dev.py`: A simple python script used to practice initial commits and pushes to the main branch.
+- `login.py`: A feature script created on a separate branch (`feature-login`) and subsequently merged into the main branch to demonstrate safe collaborative development.
 
----
-
-## 📚 List of Experiments
-
-| S.N. | Experiment Name | Status |
-| :---: | :--- | :---: |
-| **1** | Set up a Git repository and practice branching, merging, and collaborative development. | ✅ |
-| **2** | *(Upcoming experiments will be listed here)* | ⏳ |
+## 🎯 Overview of Lab Task
+- **Task 4:** Setting up a Git repository, managing code versions using Git, and pushing changes to GitHub. This included creating branches for new features, merging them into the main branch, and successfully pushing the updated main branch to the remote repository.
 
 ---
 
-## 🛠️ Experiment 1 Overview
-**Objective:** Set up a Git repository and practice branching, merging, and collaborative development. Create a small project and manage code versions using Git.
+## 🔗 Link to Tasks 1, 2 & 3 Repository
+**Note for the Assessor:** Tasks 1, 2, and 3 (Jenkins CI/CD Pipeline & Nginx Deployment) were performed in a separate dedicated repository. 
 
-### Skills Demonstrated:
-* **Version Control Basics:** `git init`, `git clone`, `git status`
-* **Staging & Committing:** `git add`, `git commit`
-* **Branching & Merging:** `git branch`, `git checkout`, `git merge`
-* **Remote Repositories:** `git push`, `git pull`
-* **GitHub Collaboration:** Pull Requests and feature branches
-
----
-
-## 💻 Tech Stack
-- **Version Control:** Git, GitHub
-- **IDE:** Visual Studio Code
-- **Languages:** Python (for sample scripts like `dev.py` and `login.py`)
-
----
-
-> *This repository is maintained as part of the academic curriculum for the 7th Semester B.Tech CSE program.*
+You can view the CI/CD repository here: <br>
+👉 [**jenkins-nginx-demo (Tasks 1, 2 & 3 Repository)**](https://github.com/creativeriser/jenkins-nginx-demo)
